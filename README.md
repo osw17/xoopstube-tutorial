@@ -22,7 +22,7 @@ Este módulo es para .....
 
 ### Descargar/Fork el Módulo ![](https://xoops.org/images/forkit.png)
 
-**Puedes bifurcar )Fork) el módulo --&gt;** [**aquí**](https://github.com/XoopsModules25x/xoopstube)**\)**
+**Puedes bifurcar (Fork) el módulo --&gt;** [**aquí**](https://github.com/XoopsModules25x/xoopstube)**\)**
 
 ### Cómo contribuir
 
