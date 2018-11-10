@@ -1,34 +1,34 @@
-# Introduction
+# Introducción
 
 ![logoXoops.jpg](.gitbook/assets/logoxoops.jpg)
 
-## Module XoopsTube
+## Módulo XoopsTube
 
-#### for XOOPS 2.5.7
+#### para XOOPS 2.5.7
       
 ![logoModule.png](.gitbook/assets/logomodule.png)
             
-### User Manual
+### Manual de Usuario
 
 © XOOPS Project \(www.xoops.org\)
 
-### Module Purpose
+### Propósito del Módulo
 
-This module is for .....
+Este módulo es para .....
 
- _Figure 1: Main view of the XoopsTube Module \(Admin side\)_
+ _Figure 1: Vista principal del Módulo XoopsTube \(Admin side\)_
 
-## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
+## Descargar/Fork el Módulo ![](https://xoops.org/images/forkit.png) 
 
-### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
+### Descargar/Fork el Módulo ![](https://xoops.org/images/forkit.png)
 
-**You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/xoopstube)**\)**
+**Puedes bifurcar )Fork) el módulo --&gt;** [**aquí**](https://github.com/XoopsModules25x/xoopstube)**\)**
 
-### How to Contribute
+### Cómo contribuir
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/xoopstube-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/xoopstube-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/xoopstube-tutorial) changes.
+[Puedes contribuir en GitHub](https://github.com/XoopsDocs/xoopstube-tutorial). Los cambios serán [empujado a Gitbook.io automáticamente](https://www.gitbook.com/book/xoops/xoopstube-tutorial/activity) cuando haga cambios en el [repositorio principal](https://github.com/XoopsDocs/xoopstube-tutorial).
 
-Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
+La edición del libro se puede hacer actualizando los archivos de rebajas con un editor de texto o abriendo el repositorio en [la aplicación de escritorio Gitbook](https://github.com/GitbookIO/editor/blob/master/README.md). La aplicación de escritorio le dará una opción de vista previa en vivo.
 
 ## Table of Content
 
