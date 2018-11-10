@@ -30,24 +30,24 @@ Este módulo es para .....
 
 La edición del libro se puede hacer actualizando los archivos de rebajas con un editor de texto o abriendo el repositorio en [la aplicación de escritorio Gitbook](https://github.com/GitbookIO/editor/blob/master/README.md). La aplicación de escritorio le dará una opción de vista previa en vivo.
 
-## Table of Content
+## Tabla de Contenidos
 
-* [Install/Uninstall](install-uninstall.md)
-* [Administration Menu](administration-menu.md)
-* [Preferences](preferences.md)
-* [Operating Instructions](operating-instructions.md)
-* [The User Side](the-user-side.md)
-* [Blocks](blocks.md)
-* [Templates](templates.md)
-* [Miscellaneous](other.md) 
-* [Module Credits](module-credits.md)
-* [About XOOPS CMS](about-xoops-cms.md)
+* [Instalar/desinstalar](install-uninstall.md)
+* [Menú de Administración](administration-menu.md)
+* [Preferencias](preferences.md)
+* [Instrucciones de Funcionamiento](operating-instructions.md)
+* [El Lado del Usuario](the-user-side.md)
+* [Bloques](blocks.md)
+* [Plantillas](templates.md)
+* [Miscelaneos](other.md) 
+* [Créditos del módulo](module-credits.md)
+* [Acerca de XOOPS CMS](about-xoops-cms.md)
 
-### License:
+### Licencia:
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
-Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+A menos que se especifique, este contenido está bajo una licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
+Todas las obras derivadas deben ser atribuidas al Proyecto XOOPS. \([www.xoops.org](https://xoops.org)\)
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
+Todas las obras derivadas deben ser atribuidas al Proyecto XOOPS. ([www.xoops.org](https://xoops.org))
